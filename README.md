@@ -1,2 +1,0 @@
-# PivotalTraining
-My first repository
